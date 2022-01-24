@@ -33,6 +33,11 @@ Objetivos Especificos:
 7.BIBLIOGRAFÍA
 
 Catillo, M. (17 de marzo de 2016). Control Dimmer.
+
 https://pdfcoffee.com/control-dimmerpdf-4-pdf-free.html
+
+Espinoza, I. (5 de diciembre de 2018). Como hacer un dimmer electronico con DIAC y TRIAC, Paso a Paso en Protoboard.
+
+https://www.youtube.com/watch?v=-Q6ZaH_hCBc&t=343s
 
 
