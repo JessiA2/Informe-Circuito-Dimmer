@@ -31,3 +31,8 @@ Objetivos Especificos:
 6.CONCLUSIONES
 
 7.BIBLIOGRAFÍA
+
+Catillo, M. (17 de marzo de 2016). Control Dimmer.
+https://pdfcoffee.com/control-dimmerpdf-4-pdf-free.html
+
+
