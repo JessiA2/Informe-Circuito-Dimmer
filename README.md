@@ -18,6 +18,11 @@ Objetivos Especificos:
 
 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
+![image](https://user-images.githubusercontent.com/93733175/150804115-44be77b7-154a-4933-be47-44be4099235a.png)
+
+![image](https://user-images.githubusercontent.com/93733175/150804406-67702100-4b07-4a19-bb07-6debbfcf38de.png)
+
+
 4.VIDEO
 
 5.CONCLUSIONES
