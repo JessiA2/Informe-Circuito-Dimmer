@@ -12,19 +12,22 @@ Objetivos Especificos:
 
 * Verificar la intensidad de la luz de una lámpara con la ayuda de un potenciómetro. 
 
-2.MARCO TEÓRICO
+2.MATERIAL Y EQUIPO REQUERDIDO
+
+![image](https://user-images.githubusercontent.com/93733175/150815199-d074517a-c31d-4c06-a74e-e59e7653e92b.png)
+
+3.MARCO TEÓRICO
 
 ![image](https://user-images.githubusercontent.com/93733175/150729828-678388e3-3773-4f21-92e9-5786cb82016a.png)
 
-3.EXPLICACIÓN DEL PROCEDIMIENTO
+4.EXPLICACIÓN DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/93733175/150804115-44be77b7-154a-4933-be47-44be4099235a.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/150804406-67702100-4b07-4a19-bb07-6debbfcf38de.png)
 
+5.VIDEO
 
-4.VIDEO
+6.CONCLUSIONES
 
-5.CONCLUSIONES
-
-6.BIBLIOGRAFÍA
+7.BIBLIOGRAFÍA
