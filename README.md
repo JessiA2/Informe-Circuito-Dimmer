@@ -24,7 +24,11 @@ Objetivos Especificos:
 
 * Para el desarrollo de esta práctica, procedí primero a realizar una simulación del circuito armando en PROTEUS, de tal manera para comprobar por simulación el correcto funcionamiento del circuito armado para así posteriormente pasar el armado de este en físico.
 
+* Habiendo ya terminado la simulación podemos observar en la figura 1 que al momento de mover la perrilla del potenciómetro en su valor máximo se enciende la lampara a su mayor intensidad. 
+
 ![image](https://user-images.githubusercontent.com/93733175/151006572-ed94de62-ddb8-4e48-ad76-1440a1c550ad.png)
+
+* En la figura 2 se obtiene lo contrario de manera que cuando la perrilla del potenciómetro se encuentra en su valor mínimo en 0 ohms la intensidad de la lampara va a disminuir su intensidad.
 
 ![image](https://user-images.githubusercontent.com/93733175/150804406-67702100-4b07-4a19-bb07-6debbfcf38de.png)
 
