@@ -14,7 +14,7 @@ Objetivos Especificos:
 
 2.MATERIAL Y EQUIPO REQUERDIDO
 
-![image](https://user-images.githubusercontent.com/93733175/150815199-d074517a-c31d-4c06-a74e-e59e7653e92b.png)
+![image](https://user-images.githubusercontent.com/93733175/150828147-feb3338c-3477-49f0-872e-4ba223f1218d.png)
 
 3.MARCO TEÓRICO
 
@@ -25,6 +25,15 @@ Objetivos Especificos:
 ![image](https://user-images.githubusercontent.com/93733175/150804115-44be77b7-154a-4933-be47-44be4099235a.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/150804406-67702100-4b07-4a19-bb07-6debbfcf38de.png)
+
+![image](https://user-images.githubusercontent.com/93733175/150906295-19b2469a-a038-4f1a-aa92-8e30ce85d490.png)
+
+![image](https://user-images.githubusercontent.com/93733175/150906318-5f45a93f-7782-442c-b487-c91ebae309dc.png)
+
+![image](https://user-images.githubusercontent.com/93733175/150906332-741c73aa-e005-4c18-b2c8-9a54c2490bf6.png)
+
+![image](https://user-images.githubusercontent.com/93733175/150906341-9d9a7d21-53c9-4d50-9738-8f89af7a8025.png)
+
 
 5.VIDEO
 
