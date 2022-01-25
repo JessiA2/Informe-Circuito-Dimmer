@@ -32,20 +32,30 @@ Objetivos Especificos:
 
 ![image](https://user-images.githubusercontent.com/93733175/151009407-c6f56b13-a3da-439a-927a-ebe26f719de6.png)
 
-![image](https://user-images.githubusercontent.com/93733175/150906295-19b2469a-a038-4f1a-aa92-8e30ce85d490.png)
+* El elemento más importante de este proyecto es un TRIAC el cual es comandado por el potenciómetro a 
+través de una resistencia, y la carga que recibe en este disparo proviene de un arreglo de capacitores en 
+paralelo que conmutaran la activación de la compuerta del TRIAC cada vez que estos se carguen, ya sea positivamente o negativamente por el uso de corriente alterna en medida que el potenciómetro indique 
+con la variación de su resistencia.
 
-![image](https://user-images.githubusercontent.com/93733175/150906318-5f45a93f-7782-442c-b487-c91ebae309dc.png)
+![image](https://user-images.githubusercontent.com/93733175/151020384-08e27630-d342-4643-858d-051404e75435.png)
 
-![image](https://user-images.githubusercontent.com/93733175/150906332-741c73aa-e005-4c18-b2c8-9a54c2490bf6.png)
+* Como resultado de nuestro circuito eléctrico dimmer armado en un protoboard como se muestra en la figura 5 procedemos a conectar a nuestra fuente de 220V, a continuación, observamos que la perrilla del potenciómetro se encuentra en 0 ohms y como resultado vamos a observar que nuestro foco se encuentra apagado en su mínima intensidad. 
 
-![image](https://user-images.githubusercontent.com/93733175/150906341-9d9a7d21-53c9-4d50-9738-8f89af7a8025.png)
+![image](https://user-images.githubusercontent.com/93733175/151020513-0901be55-12c6-402c-b0ca-7f9e83e13d0b.png)
 
+![image](https://user-images.githubusercontent.com/93733175/151020708-d674d5cf-99b3-4737-9d57-b6d05118fd38.png)
+
+![image](https://user-images.githubusercontent.com/93733175/151020799-ceadfb65-e474-4729-b726-d444f37aa8c2.png)
 
 5.VIDEO
 
 https://youtu.be/vgYbz9Gg3-8
 
 6.CONCLUSIONES
+
+* 
+
+*
 
 7.BIBLIOGRAFÍA
 
