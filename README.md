@@ -24,7 +24,7 @@ Objetivos Especificos:
 
 * Para el desarrollo de esta práctica, procedí primero a realizar una simulación del circuito armando en PROTEUS, de tal manera para comprobar por simulación el correcto funcionamiento del circuito armado para así posteriormente pasar el armado de este en físico.
 
-![image](https://user-images.githubusercontent.com/93733175/150804115-44be77b7-154a-4933-be47-44be4099235a.png)
+![image](https://user-images.githubusercontent.com/93733175/151006572-ed94de62-ddb8-4e48-ad76-1440a1c550ad.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/150804406-67702100-4b07-4a19-bb07-6debbfcf38de.png)
 
