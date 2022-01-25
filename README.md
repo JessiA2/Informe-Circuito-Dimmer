@@ -39,11 +39,13 @@ con la variación de su resistencia.
 
 ![image](https://user-images.githubusercontent.com/93733175/151020384-08e27630-d342-4643-858d-051404e75435.png)
 
-* Como resultado de nuestro circuito eléctrico dimmer armado en un protoboard como se muestra en la figura 5 procedemos a conectar a nuestra fuente de 220V, a continuación, observamos que la perrilla del potenciómetro se encuentra en 0 ohms y como resultado vamos a observar que nuestro foco se encuentra apagado en su mínima intensidad. 
-
 ![image](https://user-images.githubusercontent.com/93733175/151020513-0901be55-12c6-402c-b0ca-7f9e83e13d0b.png)
 
+* Como resultado de nuestro circuito eléctrico dimmer armado en un protoboard como se muestra en la figura 5 procedemos a conectar a nuestra fuente de 220V, a continuación, observamos que la perrilla del potenciómetro se encuentra en 0 ohms y como resultado vamos a observar que nuestro foco se encuentra apagado en su mínima intensidad. 
+
 ![image](https://user-images.githubusercontent.com/93733175/151020708-d674d5cf-99b3-4737-9d57-b6d05118fd38.png)
+
+* En la figura 6, observamos que la perrilla del potenciómetro se encuentra en su valor máximo 500 k y como resultado vamos a observar que nuestro foco se encuentra totalmente encendido en su máxima intensidad.
 
 ![image](https://user-images.githubusercontent.com/93733175/151020799-ceadfb65-e474-4729-b726-d444f37aa8c2.png)
 
