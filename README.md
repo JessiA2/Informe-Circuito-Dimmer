@@ -26,11 +26,11 @@ Objetivos Especificos:
 
 * Habiendo ya terminado la simulación podemos observar en la figura 1 que al momento de mover la perrilla del potenciómetro en su valor máximo se enciende la lampara a su mayor intensidad. 
 
-![image](https://user-images.githubusercontent.com/93733175/151006572-ed94de62-ddb8-4e48-ad76-1440a1c550ad.png)
+![image](https://user-images.githubusercontent.com/93733175/151009344-c5a0df7a-92a3-4494-96f0-61bcbcb91f46.png)
 
 * En la figura 2 se obtiene lo contrario de manera que cuando la perrilla del potenciómetro se encuentra en su valor mínimo en 0 ohms la intensidad de la lampara va a disminuir su intensidad.
 
-![image](https://user-images.githubusercontent.com/93733175/150804406-67702100-4b07-4a19-bb07-6debbfcf38de.png)
+![image](https://user-images.githubusercontent.com/93733175/151009407-c6f56b13-a3da-439a-927a-ebe26f719de6.png)
 
 ![image](https://user-images.githubusercontent.com/93733175/150906295-19b2469a-a038-4f1a-aa92-8e30ce85d490.png)
 
