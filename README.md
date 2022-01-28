@@ -55,9 +55,9 @@ https://youtu.be/vgYbz9Gg3-8
 
 6.CONCLUSIONES
 
-* 
+* Mediante la elaboración del circuito eléctrico dimmer se pudo comprobar que este circuito es solo para carga resistiva, no funciona por ejemplo para lámparas fluorescentes ya que tiene una reactancia inductiva.
 
-*
+* 
 
 7.BIBLIOGRAFÍA
 
