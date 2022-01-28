@@ -57,7 +57,7 @@ https://youtu.be/vgYbz9Gg3-8
 
 * Mediante la elaboración del circuito eléctrico dimmer se pudo comprobar que este circuito es solo para carga resistiva, no funciona por ejemplo para lámparas fluorescentes ya que tiene una reactancia inductiva.
 
-* 
+* En el circuito eléctrico dimmer es necesario colocar el condensador ya que nos permite solucionar el problema cuando reducimos la potencia hacia la carga a un valor mínimo, tenemos también que el condensador no es tan capaz de inyectar un voltaje estable.
 
 7.BIBLIOGRAFÍA
 
